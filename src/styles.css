@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  justify-content: center;
+  color: pink;
+  background-color: black;
+  font-size: 30px;
+  border-radius: 24px;
+}
