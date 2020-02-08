@@ -7,8 +7,10 @@ import Youtubecounter from "./Components/Youtube/Youtubecounter";
 function App() {
   return (
     <div className="App">
-      <p>BLACKPINK Subs Now</p>
-      <Youtubecounter />
+      <h1>BLACKPINK Subs Count</h1>
+      <h2>
+        <Youtubecounter />
+      </h2>
     </div>
   );
 }
